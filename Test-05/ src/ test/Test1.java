@@ -5,6 +5,7 @@ public class Test1 {
 		System.out.println();
                 String ss = "123456da";
 		String sss="adfagaha"
+                Striing aa="aa";
 	}
 
 }
